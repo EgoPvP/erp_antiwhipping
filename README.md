@@ -15,6 +15,7 @@ tbd
 
 - [erp_antifalldown](https://github.com/EgoPvP/erp_antifalldown) - Stop your Player from falling into the dark void.
 - [erp_towscript](https://github.com/EgoPvP/erp_towscript) - Highly Customisable and top working Vehicle Towing Script for FiveM
+- [erp_saltycircle](https://github.com/EgoPvP/erp_saltycircle) - A basic Circle, visualizing your current voice range when using Saltychat
 - [SaltyNUI](https://github.com/EgoPvP/SaltyNUI) - Discourage Users without Temspeak running when using SaltyChat!
 - [sitdown](https://github.com/EgoPvP/sitdown) - Sitting made easy!
 
