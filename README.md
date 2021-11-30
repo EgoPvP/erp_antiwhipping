@@ -22,7 +22,7 @@ tbd
 ## Support
 If you need any kind of Support, feel free to open an Issue.
 
-Discord - https://discord.gg/6jsHUVMh8G
+Discord - https://discord.gg/qRc5Hbb
 
 
 ## Donate
