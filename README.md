@@ -4,7 +4,8 @@ Stop Players from hitting others when standing close.
 
 ## Features
 
-tbd
+Stops you from falling into the Void endlessly.
+You will be teleported back to the ground, if you fall lower than -20 
 
 ## Dependencies
 
@@ -12,12 +13,20 @@ tbd
 
 
 ## Other Scripts
+We now offer Custom Script creations at our Store: [CLICK ME](https://shop.egorp.net/category/custom-development)
+
+- [SaltyNUI](https://shop.egorp.net/package/4668315) - Discourage Users without Temspeak running when using SaltyChat!
+- [erp_saltycircle](https://shop.egorp.net/package/4668429) - A basic Circle, visualizing your current voice range when using Saltychat
+
+- [erp_weaponrange](https://shop.egorp.net/package/5167273) - Have people do some shooting excersise before gaining the Weapons License.
+- [erp_towscript](https://shop.egorp.net/package/4668418) - Highly Customisable and top working Vehicle Towing Script for FiveM
 
 - [erp_antifalldown](https://github.com/EgoPvP/erp_antifalldown) - Stop your Player from falling into the dark void.
-- [erp_towscript](https://github.com/EgoPvP/erp_towscript) - Highly Customisable and top working Vehicle Towing Script for FiveM
-- [erp_saltycircle](https://github.com/EgoPvP/erp_saltycircle) - A basic Circle, visualizing your current voice range when using Saltychat
-- [SaltyNUI](https://github.com/EgoPvP/SaltyNUI) - Discourage Users without Temspeak running when using SaltyChat!
-- [sitdown](https://github.com/EgoPvP/sitdown) - Sitting made easy!
+- [erp_antiwhipping](https://github.com/EgoPvP/erp_antiwhipping) - Stop Players from hitting others when standing close.
+
+- [erp_racing](https://shop.egorp.net/package/4666867) - Battle your Friends in epic 1 vs 1 races across LosSantos!
+
+- [sitdown](https://shop.egorp.net/package/4668426) - Sitting made easy!
 
 ## Support
 If you need any kind of Support, feel free to open an Issue.
